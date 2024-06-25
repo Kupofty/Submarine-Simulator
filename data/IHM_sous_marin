@@ -1,0 +1,6 @@
+Joystick Controler Submarine interface navigation
+X	roll axis	3	SLIDER	Axe X	0	1.0	0.0
+Y	pitch axis	3	SLIDER	Axe Y	0	1.0	0.0
+Z	yaw axis	3	SLIDER	Rotation Y	0	1.0	0.0
+S	speed controler	3	SLIDER	Axe Z	0	1.0	0.0
+BALLAST	ballast 	2	BUTTON	cooliehat: Commande de pouce	0	0.0	0.0
